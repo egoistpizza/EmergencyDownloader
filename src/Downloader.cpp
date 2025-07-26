@@ -37,5 +37,6 @@ void Downloader::downloadAll(const std::vector<std::string>& urls,
 
         int progressPercent = static_cast<int>(((i + 1) * 100) / total);
         progressCallback(progressPercent);
+        logCallback("");
     }
 }

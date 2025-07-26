@@ -1,5 +1,7 @@
 # Emergency Downloader
 
+![Working Demo](assets/demo.gif)
+
 A command-line utility to download trusted malware removal tools directly from **their official servers**.
 
 ## 🔗 Download
@@ -13,7 +15,6 @@ You can download the latest executable here:
 
 This tool fetches the following executables:
 
-- RKill
 - Emsisoft Emergency Kit
 - HitmanPro
 - Kaspersky Virus Removal Tool
